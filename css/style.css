@@ -187,7 +187,7 @@
 .footer .footer-top a:hover, .footer .footer-copy ul li a:hover, 
 .footer .footer-infor .infor-link a:hover { text-decoration: underline; }
 .footer .ft-select { margin-top: 20px; }
-.footer .ft-select #lang { 
+.footer .ft-select #lang2 { 
     background-color: transparent; color: #888; border: .5px solid #737373; border-radius: 1px;
     padding: 13px 23px; font-size: 1.125rem; font-weight: 400; 
 }
